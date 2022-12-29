@@ -1,7 +1,7 @@
 const contractAddress = "0xa67795c2Fb8D62CceBA9B5d796b87d54511F6C35"; // Replace with your own contract address
 const chain = 'polygon'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the worldchips NFT Project!!";
+const welcome_h1 = "Welcome to the worldchips NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The worldchips NFT project is a collection of cool places around the World, each painted in 14 different styles.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
